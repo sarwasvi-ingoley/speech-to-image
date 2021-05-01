@@ -1,0 +1,2 @@
+# speech-to-image
+The objective of the app is to make communication possible between a deaf person and a normal person who doesn’t know how to use American Sign Language to communicate with deaf person. We convert the audio provided text given by the normal person to text and gif/video array which is understandable for the deaf person. This application aims to remove third person from which was required in a Voice Carry Over and maintain communication privacy and does not need extra device to be carried.
